@@ -1,5 +1,5 @@
 # Vortex, The Organization
 
-![Kazu](kazu.png)
+![Kazu](https://vortex.playfairs.cc/kayu.png)
 
 The organization for all things Vortex Related.
